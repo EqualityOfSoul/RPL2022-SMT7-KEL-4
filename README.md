@@ -16,10 +16,5 @@
 - Muhammad Rizky Fadillah   (1922013)
 - Fajar Bimantara           (1922027)
 
-<details>
-  <summary>Link Youtube👆</summary>
-  <pre>
-  🤷‍♂️ (https://youtu.be/cucuJEJcOdA)
-  </pre>
-</details>
+Link Youtube = https://youtu.be/cucuJEJcOdA
 <!-- About section: END -->
