@@ -19,7 +19,7 @@
 <details>
   <summary>Link Youtube👆</summary>
   <pre>
-  🤷‍♂️ https://youtu.be/cucuJEJcOdA
+  🤷‍♂️ (https://youtu.be/cucuJEJcOdA)
   </pre>
 </details>
 <!-- About section: END -->
